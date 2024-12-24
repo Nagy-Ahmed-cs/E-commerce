@@ -1,0 +1,237 @@
+#anchorpane {
+    -fx-background-color: #f8f9c5; /* Blue color */
+}
+
+#exit{
+ -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 10px 5px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 100px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+#exit:hover {
+    -fx-pref-width: 120px;
+    -fx-background-color: red;
+}
+#back{
+ -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 10px 5px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 100px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+#back:hover {
+    -fx-pref-width: 120px;
+    -fx-background-color:blueviolet;
+}
+.button {
+    -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 20px 15px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 200px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+
+.button:hover {
+    -fx-pref-width: 220px;
+    -fx-background-color: blueviolet;
+}
+#button1 {
+    -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 20px 15px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 200px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+
+#button1:hover {
+    -fx-pref-width: 220px;
+    -fx-background-color: blueviolet;
+}
+#Admin_login {
+    -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 20px 15px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 200px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+
+#Admin_login:hover {
+    -fx-pref-width: 220px;
+    -fx-background-color: blueviolet;
+}
+#back1{
+ -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 10px 5px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 100px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+#back1:hover {
+    -fx-pref-width: 120px;
+    -fx-background-color:blueviolet;
+}
+#back2{
+ -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 10px 5px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 100px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+#back2:hover {
+    -fx-pref-width: 120px;
+    -fx-background-color:blueviolet;
+}
+#pay-screen {
+    -fx-background-color: #f0f8ff; /* Light blue background */
+    -fx-padding: 20;
+}
+
+#title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50; /* Dark blue-gray color */
+}
+
+#total-price-label {
+    -fx-font-size: 18px;
+    -fx-text-fill: #34495e; /* Blue-gray color */
+}
+
+#payment-field {
+    -fx-font-size: 16px;
+    -fx-padding: 10;
+    -fx-border-color: #3498db; /* Light blue border */
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-background-color: #ecf0f1; /* Light gray background */
+}
+
+#pay-button {
+    -fx-font-size: 18px;
+    -fx-padding: 10 20;
+    -fx-background-color: #2ecc71; /* Green background */
+    -fx-text-fill: white;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+#pay-button:hover {
+    -fx-background-color: #27ae60; /* Darker green on hover */
+}
+
+#success-message {
+    -fx-font-size: 16px;
+    -fx-text-fill: #27ae60; /* Green text */
+    -fx-font-weight: bold;
+}
+#date {
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+    -fx-background-color: #ffffff, linear-gradient(to bottom, #f0f0f0, #d9d9d9);
+    -fx-border-color: #b3b3b3;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+
+#date:hover {
+    -fx-border-color: #6a9eef;
+    -fx-background-color: #ffffff, linear-gradient(to bottom, #eaf3fc, #cdd8e5);
+}
+
+#date:focused {
+    -fx-border-color: #1a73e8;
+    -fx-background-color: #ffffff, linear-gradient(to bottom, #e0efff, #c2dbf5);
+}
+
+#date .text-field {
+    -fx-text-fill: #333333;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-padding: 5px;
+}
+
+#date .arrow-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+#date .arrow-button:hover {
+    -fx-background-color: #e0e7f8;
+}
+
+#date .arrow-button .arrow {
+    -fx-background-color: #6a9eef;
+}
+#date .spinner .arrow-button {
+          -fx-background-color: linear-gradient(to bottom, #e0e7f8, #cdd8e5);
+          -fx-border-radius: 5px;
+          -fx-padding: 2px;
+          -fx-cursor: hand;
+          -fx-border-color: #6a9eef;
+          -fx-border-width: 1px;
+      }
+#date .spinner .arrow-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #d9e6f8, #b9cee5);
+    -fx-border-color: #1a73e8;
+}
+
+#date .spinner .arrow-button .arrow {
+    -fx-background-color: #6a9eef;
+    -fx-shape: "M 0 0 L 4 4 L 0 8 Z"; /* Triangular shape */
+}
+
+#date .spinner .arrow-button:hover .arrow {
+    -fx-background-color: #1a73e8;
+}

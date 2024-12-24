@@ -1,0 +1,88 @@
+/* General TableView Styling */
+.table-view {
+    -fx-background-color: linear-gradient(to bottom, #ffffff, #e6f7ff);
+    -fx-border-color: #007acc;
+    -fx-border-width: 2px;
+    -fx-padding: 10px;
+    -fx-table-cell-border-color: #d9d9d9;
+    -fx-focus-color: transparent;
+}
+
+/* Table Header Styling */
+.table-column-header {
+    -fx-background-color: linear-gradient(to bottom, #007acc, #005b99);
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-border-color: #005b99;
+    -fx-border-width: 0 0 1px 0;
+    -fx-alignment: center;
+}
+
+/* Alternate Row Colors */
+.table-row-cell:even {
+    -fx-background-color: #f7fbff;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #ffffff;
+}
+
+/* Hover Effect on Rows */
+.table-row-cell:hover {
+    -fx-background-color: #d9f0ff;
+}
+
+/* Selected Row Styling */
+.table-row-cell:selected {
+    -fx-background-color: #007acc;
+    -fx-text-fill: white;
+    -fx-border-color: transparent;
+}
+
+/* Cell Styling */
+.table-cell {
+    -fx-padding: 8px;
+    -fx-font-size: 12px;
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-text-fill: #333333;
+}
+
+/* ScrollBar Styling */
+.scroll-bar {
+    -fx-background-color: #f0f0f0;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #007acc;
+    -fx-background-radius: 5px;
+}
+
+.scroll-bar .track {
+    -fx-background-color: #e6f7ff;
+    -fx-border-radius: 5px;
+}
+
+/* Column Resize Handle */
+.column-resize-line {
+    -fx-background-color: #007acc;
+}
+.button {
+    -fx-text-fill: #fff; /* Correct property for text color */
+    -fx-alignment: center; /* Align text */
+    -fx-background-color:a2a361;
+    -fx-padding: 20px 15px;
+    -fx-cursor: hand; /* Correct property for pointer cursor */
+    -fx-background-radius: 80px;
+    -fx-pref-width: 200px;
+    -fx-effect: innershadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0, 0, 2);
+    -fx-translate-y: -30px; /* Translates for top positioning */
+    -fx-translate-x: 30px; /* Translates for left positioning */
+    -fx-border-style: none; /* Correct border property */
+    -fx-transition: all 1s; /* Simplified transition shorthand */
+}
+
+.button:hover {
+    -fx-pref-width: 220px;
+    -fx-background-color: blueviolet;
+}

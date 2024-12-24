@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorpane" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.appp.Controll_login0fuser">
+   <children>
+      <TextField fx:id="user_mail" layoutX="201.0" layoutY="182.0" prefHeight="36.0" prefWidth="299.0" />
+      <Label layoutX="120.0" layoutY="192.0" text="E-mail">
+         <font>
+            <Font name="Arial Bold" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="108.0" layoutY="291.0" text="Password">
+         <font>
+            <Font name="Arial Bold" size="14.0" />
+         </font>
+      </Label>
+      <Button fx:id="back" layoutX="523.0" layoutY="90.0" mnemonicParsing="false" onAction="#backt0_user_screen" text="back">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="exit" layoutX="24.0" layoutY="90.0" mnemonicParsing="false" onAction="#exit" text="Exit">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="button" layoutX="217.0" layoutY="408.0" mnemonicParsing="false" onAction="#goToMain_screen0fuser" prefHeight="36.0" prefWidth="82.0" text="login">
+         <font>
+            <Font name="Arial Bold" size="13.0" />
+         </font>
+      </Button>
+      <PasswordField fx:id="user_password" layoutX="200.0" layoutY="281.0" prefHeight="36.0" prefWidth="299.0" />
+   </children>
+</AnchorPane>

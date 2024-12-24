@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="anchorpane" prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.appp.Controll">
+   <children>
+      <Button fx:id="button" layoutX="27.0" layoutY="301.0" mnemonicParsing="false" onAction="#admin_screen" prefHeight="58.0" prefWidth="102.0" text="admin" />
+      <Button fx:id="button1" layoutX="403.0" layoutY="301.0" mnemonicParsing="false" onAction="#user_screen" prefHeight="58.0" prefWidth="110.0" text="user" />
+      <Label layoutX="132.0" layoutY="129.0" text="Welcome To our Shop">
+         <font>
+            <Font name="Arial Bold" size="36.0" />
+         </font>
+      </Label>
+      <Button fx:id="exit" layoutY="57.0" mnemonicParsing="false" onAction="#exit" prefHeight="30.0" prefWidth="63.0" text="Exit" />
+   </children>
+</AnchorPane>

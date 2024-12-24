@@ -1,0 +1,120 @@
+1
+Laptop
+999.99
+High-performance laptop for gaming and work
+Electronics
+2
+Smartphone
+799.49
+Latest 5G smartphone with powerful camera
+Electronics
+3
+Chair
+199.99
+Ergonomic office chair with adjustable height
+Furniture
+4
+Notebook
+5.99
+100-page lined notebook for students
+Stationery
+5
+Coffee Maker
+49.99
+Brewing system with timer and 12-cup capacity
+Appliances
+6
+T-Shirt
+12.5
+Cotton t-shirt available in various sizes and colors
+Clothing
+7
+Headphones
+129.99
+Wireless noise-cancelling headphones
+Electronics
+8
+Backpack
+39.99
+Waterproof backpack with multiple compartments
+Accessories
+9
+Washing Machine
+499.99
+Front-load washing machine with energy-saving feature
+Appliances
+10
+Desk
+259.99
+Wooden desk with drawers and ample workspace
+Furniture
+11
+Burger
+8.99
+Juicy beef burger with lettuce, tomato, and cheese
+Food
+12
+Pizza
+14.99
+12-inch pizza with pepperoni, mushrooms, and extra cheese
+Food
+13
+Pasta
+12.49
+Italian-style pasta with creamy Alfredo sauce
+Food
+14
+Salad
+6.99
+Fresh garden salad with a variety of vegetables
+Food
+15
+Sushi
+15.99
+Assorted sushi rolls with soy sauce and wasabi
+Food
+16
+Ice Cream
+4.99
+Vanilla ice cream with chocolate syrup
+Food
+17
+Coffee
+3.5
+Freshly brewed coffee served hot or cold
+Food
+18
+Smoothie
+5.49
+Fruit smoothie made with bananas, berries, and yogurt
+Food
+19
+Sandwich
+7.49
+Grilled chicken sandwich with mayo and pickles
+Food
+20
+Fries
+2.99
+Crispy French fries with ketchup
+Food
+21
+Tomatoes
+1.99
+Fresh red tomatoes perfect for salads and cooking
+Vegetables
+22
+Potatoes
+0.99
+Golden potatoes ideal for baking, mashing, or frying
+Vegetables
+23
+Carrots
+1.49
+Crunchy carrots rich in vitamin A
+Vegetables
+24
+Broccoli
+2.29
+Fresh green broccoli florets
+Vegetables
